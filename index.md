@@ -2,4 +2,4 @@
 
 ## 目次
 
-- [キャラクター設定](./characters.md)
+- [キャラクター設定](./characters/index.md)
